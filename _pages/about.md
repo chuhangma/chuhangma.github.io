@@ -23,8 +23,8 @@ I plan to graduate with a PhD from Shanghai Jiao Tong University in June 2028. i
 
 
 # 🔥 News
-- *2025.07*: &nbsp;🎉🎉 One paper accepted to ACMMM 2025. 
-- *2024.07*: &nbsp;🎉🎉 One collaborative paper accepted to ACMMM 2024. 
+- *2025.07*: &nbsp;🎉🎉 One paper accepted to ACM MM 2025. 
+- *2024.07*: &nbsp;🎉🎉 One collaborative paper accepted to ACM MM 2024. 
 
 # 📝 Publications 
 
