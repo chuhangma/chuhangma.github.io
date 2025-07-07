@@ -28,7 +28,7 @@ I plan to graduate with a PhD from Shanghai Jiao Tong University in June 2028. i
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2024</div><img src='images/stylizedfacepoint.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/stylizedfacepoint.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [StylizedFacePoint: Facial Landmark Detection for Stylized Characters](https://dl.acm.org/doi/abs/10.1145/3664647.3680984)
